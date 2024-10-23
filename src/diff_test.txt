@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is a diff example
+=======
+this is a git diff test example
+>>>>>>> c594748ab817e53174ed658006efdc9cfd42c840
